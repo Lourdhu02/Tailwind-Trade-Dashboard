@@ -44,7 +44,7 @@ The dataset includes the following tables:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/Tailwind-Trade-Dashborad.git
+    git clone https://github.com/lourdhu02/Tailwind-Trade-Dashborad.git
     ```
 
 2. Open the Power BI file (`Tailwind_Sales_Analysis.pbix`) in Power BI Desktop.
